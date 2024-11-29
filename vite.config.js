@@ -9,5 +9,5 @@ export default defineConfig({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-   base: '/tourly-mrel2kicg-tiyasha-kundus-projects/'
+   base: '/'
 })
